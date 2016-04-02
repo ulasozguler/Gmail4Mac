@@ -8,7 +8,7 @@ I don't plan to actively develop this project but I can review pull requests.
 ![Screenshot](http://i.imgur.com/T5DT8bc.png)
 
 ## Installation
-Just [download](#) and run.
+Just [download](https://github.com/ulasozguler/Gmail4Mac/releases) the latest release and run.
 
 I also activated a lab feature. You can enable it from Gmail > Settings > Labs. Search for "Preview Pane". This is optional, makes the UI more like Sparrow (3 columns structure).
 
